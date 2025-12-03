@@ -114,8 +114,6 @@ MosquitoSound/
 ├── models/              # Saved model checkpoints (not tracked)
 ├── features/            # Extracted features (not tracked)
 ├── MRH-Baseline/        # GAN checkpoints (not tracked)
-└── .github/
-    └── copilot-instructions.md  # AI coding assistant guidelines
 ```
 
 ## Future Directions

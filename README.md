@@ -131,16 +131,11 @@ This is a research project in active development. Feedback, suggestions, and dis
 
 ## Citation
 
-If you use this code or methodology in your research, please cite:
 
-```
-[Citation information to be added upon publication]
-```
 
 ## License
 
-MIT License - See LICENSE file for details
-
+MIT License 
 ## Contact
 
 For questions or collaborations, please open an issue or contact [your email].

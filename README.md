@@ -143,7 +143,7 @@ If you use this code or methodology in your research, please cite:
 MIT License 
 ## Contact
 
-For questions or collaborations, please open an issue or contact [your email].
+For questions or collaborations, please open an issue or contact albertothornton@outlook.com.
 
 ---
 

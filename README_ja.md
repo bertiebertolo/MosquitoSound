@@ -114,8 +114,6 @@ MosquitoSound/
 ├── models/              # 保存されたモデルチェックポイント（追跡されていません）
 ├── features/            # 抽出された特徴（追跡されていません）
 ├── MRH-Baseline/        # GANチェックポイント（追跡されていません）
-└── .github/
-    └── copilot-instructions.md  # AIコーディングアシスタントガイドライン
 ```
 
 ## 今後の方向性

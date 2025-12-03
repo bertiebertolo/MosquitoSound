@@ -139,7 +139,7 @@ MosquitoSound/
 
 ## ライセンス
 
-MITライセンス - 詳細はLICENSEファイルを参照してください
+MITライセンス 
 
 ## 連絡先
 

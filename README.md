@@ -132,11 +132,7 @@ This is a research project in active development. Feedback, suggestions, and dis
 
 ## Citation
 
-If you use this code or methodology in your research, please cite:
 
-```
-[Citation information to be added upon publication]
-```
 
 ## License
 
